@@ -50,11 +50,11 @@ This project is a Healthcare Dashboard built using **ReactJS** for the frontend 
    ```
 3. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 4. Open the application in your browser:
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ### **Backend Setup**:
